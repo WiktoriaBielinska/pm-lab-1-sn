@@ -1,7 +1,8 @@
-#include<Arduino.h>
+#include <Arduino.h>
+
 
 void setup(){
-  pinMode(LEB_BUILTIN, OUTPUT);
+  pinMode('LEB_BUILTIN', OUTPUT);
   digitalWrite(LED_BUILTIN, LOW);
 }
 
