@@ -6,7 +6,7 @@ Wersja: v1.0
 Data:   23.11.2020r.  
 
 # Informacje o studencie
-Imię i nazwisko studenta:   Wiktoria Bielińska  
+Imię i nazwisko studenta:   Wiktoria  Bielińska  
 Numer albumu:               72518  
 Grupa studencka:            WEL18DE1S1
 
