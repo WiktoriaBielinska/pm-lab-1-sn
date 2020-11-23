@@ -9,7 +9,6 @@ Data:   23.11.2020 r.
 Imię i nazwisko studenta:   WiktoriaBielińska  
 Numer albumu:               72518   
 Grupa studencka:            WEL18DE1S1
-
 # Pytania do zadań z instrukcji
 ## Zadanie 2-2-1a:
 Pytanie:    *Jaki jest efekt działania programu?*  
